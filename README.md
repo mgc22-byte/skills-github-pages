@@ -1,5 +1,6 @@
 theme:jekyll-shell-theme
-
+# Introduction 
+Forests are vital to the global environment, playing essential roles in carbon sequestration, water regulation, and biodiversity preservation. They are also significantly impacted by climate change, which alters the distribution and composition of tree species. In order to understand these shifts, it is crucial to study the factors influencing tree species migration and their spatial diversity. One effective way of investigating these dynamics is through the analysis of Forest Inventory and Analysis (FIA) data. This data provides a comprehensive look at the distribution of tree species across different regions, allowing researchers to track changes in species composition over time. The goal of this project is to explore how environmental gradients, such as temperature, precipitation, and soil type, influence tree species distribution and how climate change affects their migration trends. By answering these questions, we can enhance our understanding of biogeographic patterns and contribute to the development of sustainable forest management strategies.
 # Research Question
 
 How does the temperature gradient influence the abundance and distribution of Quercus rubra across different regions over time, and what are the ecological implications of these changes on forest ecosystems and biodiversity?
